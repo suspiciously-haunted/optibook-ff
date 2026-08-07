@@ -1,0 +1,2 @@
+Clear all resting orders if you pause some trading
+Do not just quote around the mid price; if a component stock disappears, the future price would drop
